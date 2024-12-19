@@ -1,0 +1,17 @@
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.InfraStructure.deps.json
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.InfraStructure.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.InfraStructure.pdb
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.AssemblyInfoInputs.cache
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.AssemblyInfo.cs
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.csproj.CoreCompileInputs.cache
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\refint\BubberDinner.InfraStructure.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.pdb
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\ref\BubberDinner.InfraStructure.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.Application.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.Domain.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.Application.pdb
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\bin\Debug\net8.0\BubberDinner.Domain.pdb
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.csproj.AssemblyReference.cache
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.InfraStructure\obj\Debug\net8.0\BubberDinner.InfraStructure.csproj.CopyComplete

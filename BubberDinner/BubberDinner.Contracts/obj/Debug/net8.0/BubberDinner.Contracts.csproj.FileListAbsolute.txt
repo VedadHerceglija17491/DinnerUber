@@ -1,0 +1,11 @@
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\bin\Debug\net8.0\BubberDinner.Contracts.deps.json
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\bin\Debug\net8.0\BubberDinner.Contracts.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\bin\Debug\net8.0\BubberDinner.Contracts.pdb
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\BubberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\BubberDinner.Contracts.AssemblyInfoInputs.cache
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\BubberDinner.Contracts.AssemblyInfo.cs
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\BubberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\BubberDinner.Contracts.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\refint\BubberDinner.Contracts.dll
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\BubberDinner.Contracts.pdb
+C:\ucenje\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net8.0\ref\BubberDinner.Contracts.dll
