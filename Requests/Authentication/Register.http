@@ -1,0 +1,14 @@
+@Host=http://localhost:5289
+
+POST {{Host}}/auth/register
+Content-Type: application/json
+
+{
+    "firstName": "Vedad",
+    "lastName": "Herceglija",
+    "email": "vedad.h96@sda.com",
+    "password": "vedator"
+}
+
+
+###

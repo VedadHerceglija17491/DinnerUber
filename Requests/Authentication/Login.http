@@ -1,0 +1,11 @@
+@Host=http://localhost:5289
+
+POST {{Host}}/auth/login
+Content-Type: application/json
+
+{
+    "email": "vedad.h96@sda.com",
+    "password": "vedator"
+}
+
+###
