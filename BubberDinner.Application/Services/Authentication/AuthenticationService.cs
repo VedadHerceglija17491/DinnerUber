@@ -1,3 +1,4 @@
+using BubberDinner.Application.Common.Interfaces.Authentication;
 
 namespace BubberDinner.Application.Services.Authentication;
 
@@ -25,6 +26,7 @@ public class AuthenticationService : IAuthenticationService
         Guid userId = Guid.NewGuid();
 
         var token = _jwtTokenGenerator.GenerateToken(userId, firstName, lastName);
+        
            return new AuthenticationResult(Guid.NewGuid(), firstName, lastName, email, token);
     }
 }
