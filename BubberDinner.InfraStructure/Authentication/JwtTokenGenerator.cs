@@ -5,6 +5,8 @@ using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using BubberDinner.Application.Common.Interfaces.Authentication;
 using BubberDinner.Application.Common.Interfaces.Services;
+using Microsoft.Extensions.Options;
+
 
 
 namespace BubberDinner.InfraStructure.Authentication;
@@ -15,16 +17,18 @@ public class JwtTokenGenerator : IJwtTokenGenerator
     private const string Issuer = "BuberDinner";
 
     private readonly IDateTimeProvider _IDateTimeProvider;
+    private readonly BubberSettings _settings;
 
-    public JwtTokenGenerator(IDateTimeProvider IDateTimeProvider)
+    public JwtTokenGenerator(IDateTimeProvider IDateTimeProvider, IOptions<BubberSettings> options)
     {
         _IDateTimeProvider = IDateTimeProvider;
+        _settings = options.Value;
     }
 
   
   public string GenerateToken(Guid userId, string firstName, string lastName)
   {
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey));
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_settings.SecretKey));
         var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
         var claims = new[]
             {
