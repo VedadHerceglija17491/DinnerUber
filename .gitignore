@@ -30,3 +30,4 @@ packages/
 # Ignore environment files
 .env
 .env.*
+/.vs/BubberDinner
