@@ -1,6 +1,22 @@
-@BubberDinner.Api_HostAddress = http://localhost:5289
+@Host=http://localhost:5289
 
-GET {{BubberDinner.Api_HostAddress}}/weatherforecast/
-Accept: application/json
+POST {{Host}}/auth/login
+Content-Type: application/json
+
+{
+    "email": "vedad.h96@sda.com",
+    "password": "vedator"
+}
+
+###
+POST {{Host}}/auth/register
+Content-Type: application/json
+
+{
+    "firstName": "Vedad",
+    "lastName": "Herceglija",
+    "email": "vedad.h96@sda.com",
+    "password": "vedator"
+}
 
 ###

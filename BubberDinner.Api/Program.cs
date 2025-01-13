@@ -1,6 +1,6 @@
+using BubberDinner.Api.Filters;
 using BubberDinner.Application;
 using BubberDinner.Infrastructure;
-using BubberDinner.InfraStructure.Authentication;
 
 var builder = WebApplication.CreateBuilder(args);
 {
@@ -8,12 +8,13 @@ var builder = WebApplication.CreateBuilder(args);
     .AddApplication()
     .AddInfrastructure(builder.Configuration);
 
-    builder.Services.AddControllers();
-    
-}   
+    builder.Services.AddControllers(options => options.Filters.Add<ErrorHandlingFilterAttribute>());
+
+}
 
 var app = builder.Build();
 {
+    ////app.UseMiddleware<ErrorHandlingMiddleware>();
     app.UseHttpsRedirection();
     app.MapControllers();
     app.Run();
